@@ -1,4 +1,4 @@
-![CrowdStrike Zoom QSS_to_LogScale](https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/assets/cs-logo.png)
+![CrowdStrike Zoom QSS_to_LogScale](/docs/assets/cs-logo.png)
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40CrowdStrike&style=social&url=https%3A%2F%2Ftwitter.com%2FCrowdStrike)](https://twitter.com/CrowdStrike)<br/>
 
@@ -88,5 +88,5 @@ The Zoom Qss LogScale package comprises the set assets that provide search analy
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/assets/cs-logo-footer.png"><BR/><img width="250px" src="https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/assets/adversary-red-eyes.png"></P>
+<p align="center"><img src="/docs/assets/cs-logo-footer.png"><BR/><img width="250px" src="/docs/assets/adversary-red-eyes.png"></P>
 <h3><P align="center">WE STOP BREACHES</P></h3>
