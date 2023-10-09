@@ -1,4 +1,4 @@
-![CrowdStrike Zoom QSS_to_LogScale](https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/assets/cs-logo.png)
+![CrowdStrike Zoom QSS_to_LogScale](/docs/assets/cs-logo.png)
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40CrowdStrike&style=social&url=https%3A%2F%2Ftwitter.com%2FCrowdStrike)](https://twitter.com/CrowdStrike)
 
@@ -135,5 +135,5 @@ https://www.contributor-covenant.org/translations.
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/asset/cs-logo-footer.png"><BR/><img width="300px" src="https://raw.githubusercontent.com/CrowdStrike/Zoom-QSS-WebSocket-Falcon-Logscale-Integration/main/docs/asset/alliance_team.png"></P>
+<p align="center"><img src="/docs/assets/cs-logo-footer.png"><BR/><img width="300px" src="/docs/assets/alliance_team.png"></P>
 <h3><P align="center">WE STOP BREACHES</P></h3>
