@@ -1,0 +1,14 @@
+[Unit]
+Description=Zoom Qss Websocket Events to Logscale Service
+After=docker.service network-online.target
+Requires=docker.service
+
+[Service]
+TimeoutStartSec=0
+Restart=on-failure
+ExecStartPre=-/usr/bin/docker stop %N
+ExecStartPre=-/usr/bin/docker rm %N
+ExecStart=-/usr/bin/docker container run --env-file /etc/zoom-qss/env.vars --name qss2logscale zoom-qss
+
+[Install]
+WantedBy=multi-user.target
